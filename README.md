@@ -1,4 +1,4 @@
-# 🚑 Hospital (Ambulance) Management System – C++
+#  Hospital (Ambulance) Management System – C++
 
 November 2024
 
@@ -92,7 +92,7 @@ Ambulance-Management-System/
 
 ---
 
-## 👤 Author
+##  Author
 
 Hagar Atallah  
 C++ | Data Structures | Systems Design
